@@ -1,5 +1,5 @@
 ---
-  title: "Práctica 2"
+  title: "Data cleaning project"
   author: "Ricard Trinchet Arnejo"
   date: "11th of June 2019"
   header-includes:
